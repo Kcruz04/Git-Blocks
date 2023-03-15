@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    padding: o;
+} */
+
+.background{
+    background-color: rgb(227, 235, 251);
+    padding: 10px;
+}
+
+.cont0{
+    font-size: xx-large;
+    text-align: center;
+}
+.cont{
+
+    /* background-color: lightskyblue; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px;
+    gap: 20px;
+    padding: 20px;
+}
+.cont1{
+background-color: rgb(192, 214, 247);
+}
+.cont2{
+    background-color: rgb(155, 184, 252);
+}
+.cont3{
+    background-color: rgba(64, 140, 246, 0.895);
+}
+
+img{
+    height: 200px;
+}
+.source{
+    font-size: larger;
+    text-align: center;
+}
